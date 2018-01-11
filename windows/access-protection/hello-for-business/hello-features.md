@@ -20,7 +20,7 @@ Consider these additional features you can use after your organization deploys W
 * [Dynamic lock](#dynamic-lock)
 * [PIN reset](#pin-reset)
 * [Privileged credentials](#privileged-credentials)
-* [Mulitfactor Unlock](#multifactor-unlock)
+* [Multifactor Unlock](#multifactor-unlock)
 
 
 ## Conditional access 
