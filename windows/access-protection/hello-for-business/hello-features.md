@@ -149,7 +149,7 @@ On-premises deployments provide users with the ability to reset forgotton PINs e
 * Domain Joined or Hybird Azure joined devices
 * Windows 10, version 1709
 
-The privileged credentials scenario enables administrators to perform elevated, admistrative funcions by enrolling both their non-privileged and privileged credentials on their device.
+The privileged credentials scenario enables administrators to perform elevated, administrative functions by enrolling both their non-privileged and privileged credentials on their device.
 
 By design, Windows 10 does not enumerate all Windows Hello for Business users from within a user's session.  Using the computer Group Policy setting, Allow enumeration of emulated smartd card for all users, you can configure a device to all this enumeration on selected devices.  
 
